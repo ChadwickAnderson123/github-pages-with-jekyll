@@ -1,2 +1,4 @@
-Title: My First Blog Post
-Description: My First Learning Experiences with GitHub
+---
+layout: Posts
+title: "My First Blog Page"
+---
